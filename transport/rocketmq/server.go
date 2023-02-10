@@ -12,6 +12,7 @@ import (
 	"github.com/tx7do/kratos-transport/broker/rocketmq"
 )
 
+// test ci
 var (
 	_ transport.Server     = (*Server)(nil)
 	_ transport.Endpointer = (*Server)(nil)
