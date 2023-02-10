@@ -21,4 +21,4 @@ require (
 	google.golang.org/protobuf v1.28.1 // indirect
 )
 
-replace github.com/tx7do/kratos-transport => github.com/JackChanw/kratos-transport v0.0.0
+replace github.com/tx7do/kratos-transport => github.com/JackChanw/kratos-transport v0.0.1
